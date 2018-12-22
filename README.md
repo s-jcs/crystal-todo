@@ -1,18 +1,20 @@
 # crystal-todo
 
-TODO: Write a description here
+A simple example of a todo list in Crystal
 
 ## Installation
+### Prerequisites
 
-TODO: Write installation instructions here
+Using LevelDB to store list and requires 
+https://github.com/crystal-community/leveldb
 
-## Usage
+Debian:
 
-TODO: Write usage instructions here
+```
+sudo apt-get install libleveldb-dev libleveldb1v5 libsnappy1v5
+```
 
-## Development
 
-TODO: Write development instructions here
 
 ## Contributing
 
