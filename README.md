@@ -5,7 +5,7 @@ A simple example of a todo list in Crystal
 ## Installation
 ### Prerequisites
 
-Using LevelDB to store list and requires 
+Using LevelDB to store list and requires following packages installed.
 https://github.com/crystal-community/leveldb
 
 Debian:
