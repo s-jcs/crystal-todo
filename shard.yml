@@ -1,0 +1,13 @@
+name: crystal-todo
+version: 0.1.0
+
+authors:
+  - s-jcs <shosundberg@gmail.com>
+
+targets:
+  crystal-todo:
+    main: src/crystal-todo.cr
+
+crystal: 0.27.0
+
+license: MIT
